@@ -4,8 +4,6 @@ Search [Moby Games](https://www.mobygames.com) by game name using [Alfred](https
 
 ![alfred-moby-games](https://github.com/gingerbeardman/alfred-moby-games/assets/49612/96dcaad6-c524-4221-9d92-5f037acd46b0)
 
-----
-
 ## Installation
 Please use the [Alfred Gallery](https://alfred.app/workflows/gingerbeardman/moby-games/) so that you receive automatic updates.
 
