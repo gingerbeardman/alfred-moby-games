@@ -5,9 +5,10 @@ Search Moby Games by game name
 Results:
 - game title
 - release dates and platforms
+- Enter to open page on Moby Games
 
-Alt:
+Cmd:
 - Moby Games URL
 
-Shift+Alt:
+Cmd+Shift:
 - Official URL
