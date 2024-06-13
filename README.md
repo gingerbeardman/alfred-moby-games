@@ -2,6 +2,8 @@
 
 Search [Moby Games](https://www.mobygames.com) by game name using [Alfred](https://www.alfredapp.com)
 
+![alfred-moby-games](https://github.com/gingerbeardman/alfred-moby-games/assets/49612/96dcaad6-c524-4221-9d92-5f037acd46b0)
+
 ----
 
 ## Installation
@@ -31,11 +33,6 @@ After installaton:
 ## Modifiers
 - `Cmd` for Moby Games URL
 - `Cmd`+`Shift` for Official URL
-
-----
-
-## Screenshots
-![alfred-moby-games](https://github.com/gingerbeardman/alfred-moby-games/assets/49612/96dcaad6-c524-4221-9d92-5f037acd46b0)
 
 ----
 
