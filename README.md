@@ -21,16 +21,14 @@ Modify the Workflow in Alfred:
 
 ----
 
-## Results:
+## Results
 - Game Title
 - Platforms and Release Years
 - Press `Enter` to open the game page at mobygames.com
 
-## Cmd:
-- View Moby Games URL
-
-## Cmd+Shift:
-- View Official URL
+## Modifiers
+- `Cmd` for Moby Games URL
+- `Cmd`+`Shift` for Official URL
 
 ----
 
