@@ -152,6 +152,10 @@
 
 Github Repo: https://github.com/gingerbeardman/alfred-moby-games
 
+Requirements:
+- `zsh` (macOS built-in)
+- `jq` ([installation instructions](https://jqlang.github.io/jq/download/))
+
 Commands:
 - `moby {query}`
 
