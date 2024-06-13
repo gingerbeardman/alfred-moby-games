@@ -5,7 +5,7 @@ Search [Moby Games](https://www.mobygames.com) by game name using [Alfred](https
 ----
 
 ## Installation
-Please use the [Alfred Gallery](https://alfred.app/workflows/gingerbeardman/fsnotes/) so that you receive automatic updates.
+Please use the [Alfred Gallery](https://alfred.app/workflows/gingerbeardman/moby-games/) so that you receive automatic updates.
 
 ----
 
