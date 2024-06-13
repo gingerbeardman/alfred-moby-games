@@ -2,6 +2,8 @@
 
 Search Moby Games by game name
 
+----
+
 Results:
 - game title
 - release dates and platforms
@@ -12,3 +14,7 @@ Cmd:
 
 Cmd+Shift:
 - Official URL
+
+----
+
+Licence: MIT
