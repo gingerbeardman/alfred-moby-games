@@ -11,13 +11,13 @@ Please use the [Alfred Gallery](https://alfred.app/workflows/gingerbeardman/moby
 - `zsh` (macOS default shell)
 - `jq` ([download instructions](https://jqlang.github.io/jq/download/))
 
-----
-
-## Personalisation
-Modify the Workflow in Alfred:
+## Configuration
+During installation:
 - Change the Search Keyword
 - Add your `API Key`
-- Add a hot key
+
+After installaton:
+- Add a hot key, for searching with current Selected Text
 
 ----
 
