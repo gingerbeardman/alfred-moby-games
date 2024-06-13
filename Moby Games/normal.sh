@@ -7,7 +7,7 @@ then
 
 	url="https://api.mobygames.com/v1/games"
 
-	json=`curl --get --data-urlencode "format=normal" --data-urlencode "limit=10" --data-urlencode "title=$1" --data-urlencode "api_key=$api_key" $url`
+	json=`curl --get --data-urlencode "format=normal" --data-urlencode "limit=9" --data-urlencode "title=$1" --data-urlencode "api_key=$api_key" $url`
 
 	json=${json:gs/\"games\"\:/\"items\"\:}
 	json=${json:gs/"game_id"/"uid"}
