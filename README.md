@@ -2,9 +2,9 @@
 
 Search [Moby Games](https://www.mobygames.com) by game name using [Alfred](https://www.alfredapp.com)
 
-![alfred-moby-games](https://github.com/gingerbeardman/alfred-moby-games/assets/49612/96dcaad6-c524-4221-9d92-5f037acd46b0)
+![alfred-moby-games](https://github.com/user-attachments/assets/aba5f394-dd45-4a1c-a4b7-af45891d9087)
 
-## Installation
+g## Installation
 Please use the [Alfred Gallery](https://alfred.app/workflows/gingerbeardman/moby-games/) so that you receive automatic updates.
 
 Alternatively, grab the latest version from [releases/latest/](https://github.com/gingerbeardman/alfred-moby-games/releases/latest/)
