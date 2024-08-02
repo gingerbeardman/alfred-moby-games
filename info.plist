@@ -90,7 +90,7 @@
 				<key>queuemode</key>
 				<integer>1</integer>
 				<key>runningsubtext</key>
-				<string></string>
+				<string>Retrieving game data…</string>
 				<key>script</key>
 				<string></string>
 				<key>scriptargtype</key>
@@ -98,9 +98,9 @@
 				<key>scriptfile</key>
 				<string>normal.sh</string>
 				<key>subtext</key>
-				<string></string>
+				<string>{const:alfred_workflow_description}</string>
 				<key>title</key>
-				<string></string>
+				<string>{const:alfred_workflow_name}</string>
 				<key>type</key>
 				<integer>8</integer>
 				<key>withspace</key>
@@ -236,7 +236,7 @@ API Key:
 	<key>variablesdontexport</key>
 	<array/>
 	<key>version</key>
-	<string>1.1</string>
+	<string>1.2</string>
 	<key>webaddress</key>
 	<string>https://www.gingerbeardman.com</string>
 </dict>
