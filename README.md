@@ -2,7 +2,7 @@
 
 Search [Moby Games](https://www.mobygames.com) by game name using [Alfred](https://www.alfredapp.com)
 
-![alfred-moby-games](https://github.com/user-attachments/assets/aba5f394-dd45-4a1c-a4b7-af45891d9087)
+![alfred-moby-games](https://github.com/user-attachments/assets/ca75f3d9-4db2-4712-a32f-9149b297d7ba)
 
 ## Installation
 
