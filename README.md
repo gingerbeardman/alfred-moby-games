@@ -13,6 +13,13 @@ Alternatively, grab the latest version from [releases/latest/](https://github.co
 ## Requirements
 - `zsh` (macOS default shell)
 - `jq` ([download instructions](https://jqlang.github.io/jq/download/))
+- `API key` (free; see below)
+
+## API key
+- [https://www.mobygames.com/info/api/](https://www.mobygames.com/info/api/)
+> If you'd like access to the free API (not-for-profit use), create a MobyGames account and then visit your profile page. Click the 'API' link under your user name to sign up for an API key. If you wish to use the API key with an existing game launcher or plugin please specify which launcher and plugin you will be using.
+
+Enter "Alfred app Moby Games workflow".
 
 ## Configuration
 During installation:
