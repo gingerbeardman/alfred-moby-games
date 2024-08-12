@@ -42,5 +42,10 @@ After installaton:
 
 ----
 
+## Contributors
+- philocalyst
+
+----
+
 ## Licence
 [MIT](./LICENSE)
