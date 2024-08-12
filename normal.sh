@@ -5,9 +5,11 @@ api_key="${moby_games_api_key}"
 if [[ $api_key ]]
 then
 
+	title="$*"
+
 	url="https://api.mobygames.com/v1/games"
 
-	json=`curl --get --data-urlencode "format=normal" --data-urlencode "limit=25" --data-urlencode "title=$1" --data-urlencode "api_key=$api_key" $url`
+	json=`curl --get --data-urlencode "format=normal" --data-urlencode "limit=25" --data-urlencode "title=$title" --data-urlencode "api_key=$api_key" $url`
 
 	json=${json:gs/\"games\"\:/\"items\"\:}
 	json=${json:gs/"game_id"/"uid"}
