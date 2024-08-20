@@ -21,6 +21,9 @@ then
 	# add arg which is the URL we will pass to Open URL
 	json=`echo -E $json | jq '.items[] |= (. + {arg: .url})'`
 
+	# add Quick Look URL for use by AlfredExtraPane
+	json=`echo -E $json | jq '.items[] |= (. + {quicklookurl: .url})'`
+
  	# add platforms and release years as subtitle
 	json=`echo -E $json | jq '.items |= map(. + {subtitle: (.platforms | map("\(.platform_name) (\(.first_release_date[0:4]))") | join(", "))})'`
 
