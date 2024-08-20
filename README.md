@@ -37,8 +37,12 @@ After installaton:
 - Press `Enter` to open the game page at mobygames.com
 
 ## Modifiers
-- `Cmd` for Moby Games URL
-- `Cmd`+`Shift` for Official URL
+- <kbd>Cmd</kbd> for Moby Games URL
+- <kbd>Cmd</kbd> + <kbd>Shift</kbd> for Official URL
+
+## Quick Look
+- <kbd>Cmd</kbd> + <kbd>Y</kbd> for Moby Games URL
+- [AlfredExtraPane](https://github.com/mr-pennyworth/alfred-extra-pane) is also supported
 
 ----
 
